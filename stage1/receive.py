@@ -1,5 +1,5 @@
 import pika
-from .config import (
+from config import (
     RABBITMQ_HOST,
     RABBITMQ_PORT,
     RABBITMQ_USER,
